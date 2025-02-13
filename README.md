@@ -44,7 +44,7 @@ Ensure you have the following installed:
 ### Project Live  and Demo
 [Click Here](#)
 
-![Admin dashboard](./src/assets/demo%20project.png)
+![Admin dashboard](./src/assets/demo.png)
 
 
 ### License
