@@ -42,7 +42,7 @@ Ensure you have the following installed:
     yarn dev
    ```
 ### Project Live  and Demo
-[Click Here](#)
+[Click Here](https://react-task-1-cyan.vercel.app/)
 
 ![Admin dashboard](./src/assets/demo.png)
 
